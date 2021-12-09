@@ -16,6 +16,8 @@
 # limitations under the License.
 #
 
+sdfjkldsfjlk
+
 ##############################################################################
 ##
 ##  Gradle start up script for UN*X
