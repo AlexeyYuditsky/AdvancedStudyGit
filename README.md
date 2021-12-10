@@ -3,4 +3,4 @@
 # Download
 [![Link Play Market](https://i.ibb.co/tCN3pbv/playmarket.png)](https://play.google.com/store/apps/details?id=com.alexeyyuditsky.catsounds)
 # Video
-![bandicam 2021-12-10 13-56-52-899 (1)](https://user-images.githubusercontent.com/62300353/145533446-56e2786c-69e4-49d0-82fb-bf3ac7930dc6.gif)
+![Record_2021-12-10-16-12-21 (3)](https://user-images.githubusercontent.com/62300353/145551730-2812c7da-64f4-4a8c-8242-1562f95cd69a.gif)
